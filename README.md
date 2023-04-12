@@ -1,0 +1,1 @@
+The backend content can be accessed from backend branch and frontend from the frontend branch.
